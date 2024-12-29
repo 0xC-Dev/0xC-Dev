@@ -1,4 +1,4 @@
-Welcome to My Page, I'm David, a Cyber Security student at Fanshawe College
+<h2 align="center">Welcome to My Page, I'm David, a Cyber Security student at Fanshawe College</h1>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=0xC-Dev&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
