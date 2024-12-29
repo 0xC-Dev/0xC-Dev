@@ -11,7 +11,7 @@ I started programming in elementary school with basic front-end development, but
 ### 🛠️ What I Know  
 
 - **Java** (in-depth, including Bytecode Fund)  
-- **Java Virtual Machine Fund**
+- **Java Virtual Machine Fund** (Garbage Collection, Low level access)
 - **Python Scripts**  
 - **Socket Programming**  
 - **MySQL** (learned at Fanshawe)  
