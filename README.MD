@@ -31,13 +31,6 @@ I started programming in elementary school with basic front-end development, but
   - **Libraries Used:**  
     - Server: Netty  
 
-**Commercial Java Obfuscator**  
-  - **Languages:**  
-    - Obfuscator: Java
-    - Authentication: Rust (via JNI) 
-  - **Libraries Used:** 
-    - Bytecode Manipulation: ASM (OW2)
-
 <img src="https://raw.githubusercontent.com/0xC-Dev/0xC-Dev/refs/heads/main/assets/aqua.png"></img>
 
 <div align="center">
