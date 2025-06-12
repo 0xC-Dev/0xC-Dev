@@ -21,18 +21,6 @@ I started programming in elementary school with basic front-end development, but
 
 <img src="https://raw.githubusercontent.com/0xC-Dev/0xC-Dev/refs/heads/main/assets/aqua.png"></img>
 
-### 🚀 My Projects  
-
- **C2 Server**  
-  - **Repo Status:** Currently private, will be made public later  
-  - **Languages:**  
-    - Server: Java + Rust (via JNI)  
-    - Client: C/C++ (Collaborator)  
-  - **Libraries Used:**  
-    - Server: Netty  
-
-<img src="https://raw.githubusercontent.com/0xC-Dev/0xC-Dev/refs/heads/main/assets/aqua.png"></img>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=0xC-Dev&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xC-Dev&radius=16&theme=tokyo-night&area=true&order=5" height="280" alt="activity-graph graph"  />
